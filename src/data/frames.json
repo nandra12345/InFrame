@@ -1,0 +1,380 @@
+[
+  {
+    "id": "hollywood-3cut",
+    "name": "Hollywood Marquee 3-Cut",
+    "category": "Cinema",
+    "cutCount": 3,
+    "aspectRatio": 0.5627,
+    "canvasWidth": 1200,
+    "canvasHeight": 2132,
+    "overlayUrl": "/assets/frames/hollywood-3cut.png",
+    "thumbnailUrl": "/assets/frames/thumbs/hollywood-3cut.png",
+    "backgroundColor": "#160D0C",
+    "slots": [
+      {
+        "id": 1,
+        "x": 0.2514,
+        "y": 0.1032,
+        "w": 0.4552,
+        "h": 0.2599
+      },
+      {
+        "id": 2,
+        "x": 0.2514,
+        "y": 0.367,
+        "w": 0.4552,
+        "h": 0.2599
+      },
+      {
+        "id": 3,
+        "x": 0.2514,
+        "y": 0.6307,
+        "w": 0.4552,
+        "h": 0.2599
+      }
+    ]
+  },
+  {
+    "id": "scrapbook-cinema-4cut",
+    "name": "Cinema Scrapbook 4-Cut",
+    "category": "Scrapbook",
+    "cutCount": 4,
+    "aspectRatio": 0.5627,
+    "canvasWidth": 1200,
+    "canvasHeight": 2132,
+    "overlayUrl": "/assets/frames/scrapbook-cinema-4cut.png",
+    "thumbnailUrl": "/assets/frames/thumbs/scrapbook-cinema-4cut.png",
+    "backgroundColor": "#160D0C",
+    "slots": [
+      {
+        "id": 1,
+        "x": 0.0693,
+        "y": 0.0627,
+        "w": 0.4117,
+        "h": 0.1705
+      },
+      {
+        "id": 2,
+        "x": 0.1087,
+        "y": 0.2301,
+        "w": 0.4103,
+        "h": 0.1728
+      },
+      {
+        "id": 3,
+        "x": 0.1467,
+        "y": 0.3998,
+        "w": 0.4117,
+        "h": 0.172
+      },
+      {
+        "id": 4,
+        "x": 0.4144,
+        "y": 0.6162,
+        "w": 0.3696,
+        "h": 0.1621
+      }
+    ]
+  },
+  {
+    "id": "grunge-cassette-3cut",
+    "name": "90s Tape Grunge 3-Cut",
+    "category": "Vintage 90s",
+    "cutCount": 3,
+    "aspectRatio": 0.5625,
+    "canvasWidth": 1200,
+    "canvasHeight": 2133,
+    "overlayUrl": "/assets/frames/grunge-cassette-3cut.png",
+    "thumbnailUrl": "/assets/frames/thumbs/grunge-cassette-3cut.png",
+    "backgroundColor": "#160D0C",
+    "slots": [
+      {
+        "id": 1,
+        "x": 0.2214,
+        "y": 0.1758,
+        "w": 0.3819,
+        "h": 0.2441
+      },
+      {
+        "id": 2,
+        "x": 0.3906,
+        "y": 0.4395,
+        "w": 0.4253,
+        "h": 0.2441
+      },
+      {
+        "id": 3,
+        "x": 0.1953,
+        "y": 0.7031,
+        "w": 0.3602,
+        "h": 0.2002
+      }
+    ]
+  },
+  {
+    "id": "goth-tartan-4cut",
+    "name": "Dark Tartan Plaid 4-Cut",
+    "category": "Vintage 90s",
+    "cutCount": 4,
+    "aspectRatio": 0.5625,
+    "canvasWidth": 1200,
+    "canvasHeight": 2133,
+    "overlayUrl": "/assets/frames/goth-tartan-4cut.png",
+    "thumbnailUrl": "/assets/frames/thumbs/goth-tartan-4cut.png",
+    "backgroundColor": "#160D0C",
+    "slots": [
+      {
+        "id": 1,
+        "x": 0.5,
+        "y": 0.0332,
+        "w": 0.3863,
+        "h": 0.2178
+      },
+      {
+        "id": 2,
+        "x": 0.0929,
+        "y": 0.2495,
+        "w": 0.4358,
+        "h": 0.2451
+      },
+      {
+        "id": 3,
+        "x": 0.5477,
+        "y": 0.3579,
+        "w": 0.4314,
+        "h": 0.2432
+      },
+      {
+        "id": 4,
+        "x": 0.1267,
+        "y": 0.5806,
+        "w": 0.5156,
+        "h": 0.2905
+      }
+    ]
+  },
+  {
+    "id": "y2k-media-4cut",
+    "name": "Tamagotchi & Retro TV 4-Cut",
+    "category": "Scrapbook",
+    "cutCount": 4,
+    "aspectRatio": 0.5625,
+    "canvasWidth": 1200,
+    "canvasHeight": 2133,
+    "overlayUrl": "/assets/frames/y2k-media-4cut.png",
+    "thumbnailUrl": "/assets/frames/thumbs/y2k-media-4cut.png",
+    "backgroundColor": "#141D2B",
+    "slots": [
+      {
+        "id": 1,
+        "x": 0.0434,
+        "y": 0.0244,
+        "w": 0.3906,
+        "h": 0.2441
+      },
+      {
+        "id": 2,
+        "x": 0.0668,
+        "y": 0.2935,
+        "w": 0.3672,
+        "h": 0.2437
+      },
+      {
+        "id": 3,
+        "x": 0.5035,
+        "y": 0.4395,
+        "w": 0.2604,
+        "h": 0.1465
+      },
+      {
+        "id": 4,
+        "x": 0.3299,
+        "y": 0.708,
+        "w": 0.2778,
+        "h": 0.1807
+      }
+    ]
+  },
+  {
+    "id": "noir-swag-3cut",
+    "name": "Noir Cyber Swag 3-Cut",
+    "category": "Cinema",
+    "cutCount": 3,
+    "aspectRatio": 0.5625,
+    "canvasWidth": 1200,
+    "canvasHeight": 2133,
+    "overlayUrl": "/assets/frames/noir-swag-3cut.png",
+    "thumbnailUrl": "/assets/frames/thumbs/noir-swag-3cut.png",
+    "backgroundColor": "#111111",
+    "slots": [
+      {
+        "id": 1,
+        "x": 0.4427,
+        "y": 0.0391,
+        "w": 0.3646,
+        "h": 0.166
+      },
+      {
+        "id": 2,
+        "x": 0.0564,
+        "y": 0.1709,
+        "w": 0.3646,
+        "h": 0.1221
+      },
+      {
+        "id": 3,
+        "x": 0.447,
+        "y": 0.2539,
+        "w": 0.3733,
+        "h": 0.1416
+      }
+    ]
+  },
+  {
+    "id": "spotify-digicam-4cut",
+    "name": "Spotify Player & Digicam 4-Cut",
+    "category": "Scrapbook",
+    "cutCount": 4,
+    "aspectRatio": 0.5625,
+    "canvasWidth": 1200,
+    "canvasHeight": 2133,
+    "overlayUrl": "/assets/frames/spotify-digicam-4cut.png",
+    "thumbnailUrl": "/assets/frames/thumbs/spotify-digicam-4cut.png",
+    "backgroundColor": "#160D0C",
+    "slots": [
+      {
+        "id": 1,
+        "x": 0.0174,
+        "y": 0.0439,
+        "w": 0.3724,
+        "h": 0.2148
+      },
+      {
+        "id": 2,
+        "x": 0.4601,
+        "y": 0.0391,
+        "w": 0.4427,
+        "h": 0.3223
+      },
+      {
+        "id": 3,
+        "x": 0.5035,
+        "y": 0.5078,
+        "w": 0.2431,
+        "h": 0.1025
+      },
+      {
+        "id": 4,
+        "x": 0.0451,
+        "y": 0.4829,
+        "w": 0.3168,
+        "h": 0.1616
+      }
+    ]
+  },
+  {
+    "id": "y2k-vinyl-3cut",
+    "name": "Vinyl & Red Moon 3-Cut",
+    "category": "Vintage 90s",
+    "cutCount": 3,
+    "aspectRatio": 0.5625,
+    "canvasWidth": 1200,
+    "canvasHeight": 2133,
+    "overlayUrl": "/assets/frames/y2k-vinyl-3cut.png",
+    "thumbnailUrl": "/assets/frames/thumbs/y2k-vinyl-3cut.png",
+    "backgroundColor": "#160D0C",
+    "slots": [
+      {
+        "id": 1,
+        "x": 0.3906,
+        "y": 0.1221,
+        "w": 0.3472,
+        "h": 0.2197
+      },
+      {
+        "id": 2,
+        "x": 0.3906,
+        "y": 0.3564,
+        "w": 0.3472,
+        "h": 0.2197
+      },
+      {
+        "id": 3,
+        "x": 0.3906,
+        "y": 0.6348,
+        "w": 0.3472,
+        "h": 0.2197
+      }
+    ]
+  },
+  {
+    "id": "polaroid-velvet-3cut",
+    "name": "Polaroid OneStep Velvet 3-Cut",
+    "category": "Polaroid",
+    "cutCount": 3,
+    "aspectRatio": 0.5625,
+    "canvasWidth": 1200,
+    "canvasHeight": 2133,
+    "overlayUrl": "/assets/frames/polaroid-velvet-3cut.png",
+    "thumbnailUrl": "/assets/frames/thumbs/polaroid-velvet-3cut.png",
+    "backgroundColor": "#241413",
+    "slots": [
+      {
+        "id": 1,
+        "x": 0.2891,
+        "y": 0.2476,
+        "w": 0.2578,
+        "h": 0.146
+      },
+      {
+        "id": 2,
+        "x": 0.2899,
+        "y": 0.4082,
+        "w": 0.2595,
+        "h": 0.147
+      },
+      {
+        "id": 3,
+        "x": 0.2917,
+        "y": 0.5698,
+        "w": 0.2595,
+        "h": 0.1465
+      }
+    ]
+  },
+  {
+    "id": "birthday-polaroid-3cut",
+    "name": "Birthday Teddy 3-Cut",
+    "category": "Polaroid",
+    "cutCount": 3,
+    "aspectRatio": 0.5625,
+    "canvasWidth": 1200,
+    "canvasHeight": 2133,
+    "overlayUrl": "/assets/frames/birthday-polaroid-3cut.png",
+    "thumbnailUrl": "/assets/frames/thumbs/birthday-polaroid-3cut.png",
+    "backgroundColor": "#FAF0E4",
+    "slots": [
+      {
+        "id": 1,
+        "x": 0.3203,
+        "y": 0.2651,
+        "w": 0.395,
+        "h": 0.1729
+      },
+      {
+        "id": 2,
+        "x": 0.3203,
+        "y": 0.4541,
+        "w": 0.395,
+        "h": 0.1724
+      },
+      {
+        "id": 3,
+        "x": 0.3177,
+        "y": 0.6436,
+        "w": 0.395,
+        "h": 0.1729
+      }
+    ]
+  }
+]

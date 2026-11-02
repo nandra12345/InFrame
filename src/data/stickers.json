@@ -1,0 +1,362 @@
+[
+  {
+    "id": "cinesnap-stk-000",
+    "name": "Cinema Asset 1",
+    "category": "props",
+    "src": "/assets/stickers/cinema/stk_000.png",
+    "width": 362,
+    "height": 455,
+    "defaultWidth": 217
+  },
+  {
+    "id": "cinesnap-stk-001",
+    "name": "Cinema Asset 2",
+    "category": "props",
+    "src": "/assets/stickers/cinema/stk_001.png",
+    "width": 270,
+    "height": 344,
+    "defaultWidth": 162
+  },
+  {
+    "id": "cinesnap-stk-002",
+    "name": "Cinema Asset 3",
+    "category": "props",
+    "src": "/assets/stickers/cinema/stk_002.png",
+    "width": 251,
+    "height": 374,
+    "defaultWidth": 150
+  },
+  {
+    "id": "cinesnap-stk-003",
+    "name": "Cinema Asset 4",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_003.png",
+    "width": 248,
+    "height": 357,
+    "defaultWidth": 148
+  },
+  {
+    "id": "cinesnap-stk-004",
+    "name": "Cinema Asset 5",
+    "category": "props",
+    "src": "/assets/stickers/cinema/stk_004.png",
+    "width": 315,
+    "height": 368,
+    "defaultWidth": 189
+  },
+  {
+    "id": "cinesnap-stk-005",
+    "name": "Cinema Asset 6",
+    "category": "props",
+    "src": "/assets/stickers/cinema/stk_005.png",
+    "width": 254,
+    "height": 395,
+    "defaultWidth": 152
+  },
+  {
+    "id": "cinesnap-stk-006",
+    "name": "Cinema Asset 7",
+    "category": "props",
+    "src": "/assets/stickers/cinema/stk_006.png",
+    "width": 274,
+    "height": 320,
+    "defaultWidth": 164
+  },
+  {
+    "id": "cinesnap-stk-007",
+    "name": "Cinema Asset 8",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_007.png",
+    "width": 229,
+    "height": 351,
+    "defaultWidth": 140
+  },
+  {
+    "id": "cinesnap-stk-008",
+    "name": "Cinema Asset 9",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_008.png",
+    "width": 267,
+    "height": 231,
+    "defaultWidth": 160
+  },
+  {
+    "id": "cinesnap-stk-009",
+    "name": "Cinema Asset 10",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_009.png",
+    "width": 259,
+    "height": 189,
+    "defaultWidth": 155
+  },
+  {
+    "id": "cinesnap-stk-010",
+    "name": "Cinema Asset 11",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_010.png",
+    "width": 199,
+    "height": 293,
+    "defaultWidth": 140
+  },
+  {
+    "id": "cinesnap-stk-011",
+    "name": "Cinema Asset 12",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_011.png",
+    "width": 298,
+    "height": 155,
+    "defaultWidth": 178
+  },
+  {
+    "id": "cinesnap-stk-012",
+    "name": "Cinema Asset 13",
+    "category": "props",
+    "src": "/assets/stickers/cinema/stk_012.png",
+    "width": 315,
+    "height": 259,
+    "defaultWidth": 189
+  },
+  {
+    "id": "cinesnap-stk-013",
+    "name": "Cinema Asset 14",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_013.png",
+    "width": 249,
+    "height": 279,
+    "defaultWidth": 149
+  },
+  {
+    "id": "cinesnap-stk-014",
+    "name": "Cinema Asset 15",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_014.png",
+    "width": 260,
+    "height": 216,
+    "defaultWidth": 156
+  },
+  {
+    "id": "cinesnap-stk-015",
+    "name": "Cinema Asset 16",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_015.png",
+    "width": 105,
+    "height": 413,
+    "defaultWidth": 140
+  },
+  {
+    "id": "cinesnap-stk-016",
+    "name": "Cinema Asset 17",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_016.png",
+    "width": 192,
+    "height": 308,
+    "defaultWidth": 140
+  },
+  {
+    "id": "cinesnap-stk-017",
+    "name": "Cinema Asset 18",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_017.png",
+    "width": 243,
+    "height": 234,
+    "defaultWidth": 145
+  },
+  {
+    "id": "cinesnap-stk-018",
+    "name": "Cinema Asset 19",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_018.png",
+    "width": 258,
+    "height": 220,
+    "defaultWidth": 154
+  },
+  {
+    "id": "cinesnap-stk-019",
+    "name": "Cinema Asset 20",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_019.png",
+    "width": 212,
+    "height": 225,
+    "defaultWidth": 140
+  },
+  {
+    "id": "cinesnap-stk-020",
+    "name": "Cinema Asset 21",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_020.png",
+    "width": 260,
+    "height": 175,
+    "defaultWidth": 156
+  },
+  {
+    "id": "cinesnap-stk-021",
+    "name": "Cinema Asset 22",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_021.png",
+    "width": 212,
+    "height": 192,
+    "defaultWidth": 140
+  },
+  {
+    "id": "cinesnap-stk-022",
+    "name": "Cinema Asset 23",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_022.png",
+    "width": 247,
+    "height": 128,
+    "defaultWidth": 148
+  },
+  {
+    "id": "cinesnap-stk-023",
+    "name": "Cinema Asset 24",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_023.png",
+    "width": 114,
+    "height": 392,
+    "defaultWidth": 140
+  },
+  {
+    "id": "cinesnap-stk-024",
+    "name": "Cinema Asset 25",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_024.png",
+    "width": 241,
+    "height": 125,
+    "defaultWidth": 144
+  },
+  {
+    "id": "cinesnap-stk-025",
+    "name": "Cinema Asset 26",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_025.png",
+    "width": 230,
+    "height": 121,
+    "defaultWidth": 140
+  },
+  {
+    "id": "cinesnap-stk-026",
+    "name": "Cinema Asset 27",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_026.png",
+    "width": 174,
+    "height": 201,
+    "defaultWidth": 140
+  },
+  {
+    "id": "cinesnap-stk-027",
+    "name": "Cinema Asset 28",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_027.png",
+    "width": 236,
+    "height": 122,
+    "defaultWidth": 141
+  },
+  {
+    "id": "cinesnap-stk-028",
+    "name": "Cinema Asset 29",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_028.png",
+    "width": 238,
+    "height": 130,
+    "defaultWidth": 142
+  },
+  {
+    "id": "cinesnap-stk-029",
+    "name": "Cinema Asset 30",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_029.png",
+    "width": 92,
+    "height": 321,
+    "defaultWidth": 140
+  },
+  {
+    "id": "cinesnap-stk-030",
+    "name": "Cinema Asset 31",
+    "category": "badges",
+    "src": "/assets/stickers/cinema/stk_030.png",
+    "width": 280,
+    "height": 311,
+    "defaultWidth": 168
+  },
+  {
+    "id": "cinesnap-stk-031",
+    "name": "Cinema Asset 32",
+    "category": "props",
+    "src": "/assets/stickers/cinema/stk_031.png",
+    "width": 674,
+    "height": 1285,
+    "defaultWidth": 240
+  },
+  {
+    "id": "cinesnap-stk-032",
+    "name": "Cinema Asset 33",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_032.png",
+    "width": 1152,
+    "height": 431,
+    "defaultWidth": 240
+  },
+  {
+    "id": "cinesnap-stk-033",
+    "name": "Cinema Asset 34",
+    "category": "props",
+    "src": "/assets/stickers/cinema/stk_033.png",
+    "width": 745,
+    "height": 529,
+    "defaultWidth": 240
+  },
+  {
+    "id": "cinesnap-stk-034",
+    "name": "Cinema Asset 35",
+    "category": "tickets",
+    "src": "/assets/stickers/cinema/stk_034.png",
+    "width": 613,
+    "height": 208,
+    "defaultWidth": 240
+  },
+  {
+    "id": "cinesnap-stk-035",
+    "name": "Cinema Asset 36",
+    "category": "props",
+    "src": "/assets/stickers/cinema/stk_035.png",
+    "width": 358,
+    "height": 506,
+    "defaultWidth": 214
+  },
+  {
+    "id": "cinesnap-stk-036",
+    "name": "Cinema Asset 37",
+    "category": "props",
+    "src": "/assets/stickers/cinema/stk_036.png",
+    "width": 289,
+    "height": 398,
+    "defaultWidth": 173
+  },
+  {
+    "id": "cinesnap-stk-037",
+    "name": "Cinema Asset 38",
+    "category": "props",
+    "src": "/assets/stickers/cinema/stk_037.png",
+    "width": 379,
+    "height": 383,
+    "defaultWidth": 227
+  },
+  {
+    "id": "cinesnap-stk-038",
+    "name": "Cinema Asset 39",
+    "category": "props",
+    "src": "/assets/stickers/cinema/stk_038.png",
+    "width": 289,
+    "height": 374,
+    "defaultWidth": 173
+  },
+  {
+    "id": "cinesnap-stk-039",
+    "name": "Cinema Asset 40",
+    "category": "props",
+    "src": "/assets/stickers/cinema/stk_039.png",
+    "width": 210,
+    "height": 414,
+    "defaultWidth": 140
+  }
+]

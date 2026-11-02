@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-theater-dark: #160d0c;
+  --bg-velvet-surface: #241413;
+  --bg-popcorn-cream: #fcf5e8;
+  --accent-cinema-red: #c92a2a;
+  --accent-warm-ember: #e0533c;
+  --accent-marquee-gold: #e5b869;
+  --text-cream-primary: #faf0e4;
+  --text-muted-warm: #a89088;
+}
+
+body {
+  background-color: var(--bg-theater-dark);
+  color: var(--text-cream-primary);
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  overflow-x: hidden;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Analog subtle grain texture background */
+.bg-grain {
+  background-image: radial-gradient(rgba(229, 184, 105, 0.04) 1px, transparent 0);
+  background-size: 24px 24px;
+}
+
+/* Hide scrollbars for slick Gen-Z horizontal carousels */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Warm Marquee Glow */
+.glow-marquee {
+  box-shadow: 0 0 20px rgba(229, 184, 105, 0.25);
+}
+
+.glow-cinema-red {
+  box-shadow: 0 0 24px rgba(201, 42, 42, 0.35);
+}
+
